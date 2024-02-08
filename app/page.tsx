@@ -79,7 +79,7 @@ function Home() {
         {bunnyState === "yes" ? (
           <div className="title">I give you flower baby !!!!</div>
         ) : (
-          <div className="title">Lee?</div>
+          <div className="title">Will you be my Valentine?</div>
         )}
         <div className="animation">
           {bunnyState === "normal" && (
